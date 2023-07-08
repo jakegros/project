@@ -1,4 +1,4 @@
-# [jakegros] Project
+Accessibility Project
 
 This is a very basic starting point for your projects.
 
