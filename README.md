@@ -1,4 +1,4 @@
-Accessibility Project
+<h1>Accessibility Project</h1>
 
 This is a very basic starting point for your projects.
 
