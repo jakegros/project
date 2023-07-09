@@ -1,6 +1,7 @@
 <h1>Making Things Accessible Project</h1>
 
-This is a very basic starting point for your projects.
+The goal of this project is to share resources for items to be aware of when creating content and some good practices for accessibility.
+
 
 As you find useful information, remember to add it to the [class-notes](https://github.com/USU-ITLS-x265-23-summer/class-repo).
 
