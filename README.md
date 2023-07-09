@@ -1,6 +1,6 @@
 <h1>Making Things Accessible Project</h1>
 
-The goal of this project is to share resources for items to be aware of when creating content and some good practices for accessibility.
+<h2>The goal of this project is to share resources for items to be aware of when creating content and some good practices for accessibility.</h2>
 
 
 
