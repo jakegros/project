@@ -3,6 +3,7 @@
 The goal of this project is to share resources for items to be aware of when creating content and some good practices for accessibility.
 
 
+
 As you find useful information, remember to add it to the [class-notes](https://github.com/USU-ITLS-x265-23-summer/class-repo).
 
 ## Extensions
