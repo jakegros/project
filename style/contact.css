@@ -17,3 +17,11 @@ img {
     width: 30em;
     max-width: 50%;
 }
+
+.heading img {
+  float: left;
+}
+
+.heading h1 {
+  position: relative;
+}
