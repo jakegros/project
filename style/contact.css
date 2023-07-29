@@ -26,4 +26,13 @@ img {
 .heading h1 {
   position: relative;
 }
+
+.heading {
+      text-align: center;
+          background-color: #b8dbed;
+          color: black;
+          padding: 15px 0px 15px 0px;
+      margin: auto;
+}
+
 </style>
