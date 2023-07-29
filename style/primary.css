@@ -19,6 +19,14 @@ img {
     max-width: 50%;
 }
 
+.heading {
+      text-align: center;
+          background-color: #b8dbed;
+          color: black;
+          padding: 5px 0px 5px 0px;
+      margin: auto;
+}
+
 .heading img {
   float: left;
 }
