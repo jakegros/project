@@ -111,6 +111,8 @@ img {
 }
 
  footer {
+     text-align: center;
+          background-color: #b8dbed;
       margin: 15px 0 15px 30px;
     }
 
