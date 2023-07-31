@@ -1,4 +1,3 @@
-<script>
 document.getElementById("contact-form").addEventListener("submit", function (event) {
     event.preventDefault();
 
@@ -17,5 +16,3 @@ document.getElementById("contact-form").addEventListener("submit", function (eve
         document.getElementById("contact-form").reset();
     }, 1000);
 });
-
-</script>
