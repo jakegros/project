@@ -26,19 +26,19 @@
 <p>People with visual impairments, including blindness, low-level vision, and color blindness, use screen magnifiers and screen readers to access digital content. The World Health Organization estimates that approximately 285 million people worldwide are visually impaired, with 39 million being blind and 246 million having low vision. This substantial population of users should not be excluded due to improper website coding, as it is nearly equivalent to the population of the United States.
 </p>
   <ul>
-  <li>Tagging items correctly: One of the best accessibility aids a screen reader user can have is an excellent content structure with headings, paragraphs, lists, etc.
+  <li id="tags">Tagging items correctly: One of the best accessibility aids a screen reader user can have is an excellent content structure with headings, paragraphs, lists, etc.
   <ul>
   <li><a href="https://www.w3.org/WAI/tutorials/page-structure/">Page Structure</a>
     <li><a href="https://www.w3.org/WAI/tutorials/menus/">Menus</a>
       <li><a href="https://www.w3.org/WAI/tutorials/tables/">Tables</a>
   </li></li></ul></ul>
   <ul> <br>
-  <li>Contrast:
+  <li id="contrast">Contrast:
   This <a href="https://webaim.org/articles/contrast/">article from WebAIM</a> emphasizes the importance of contrast and color use for accessibility, particularly for users with visual disabilities. It aims to simplify the Web Content Accessibility Guidelines (WCAG) 2 requirements related to contrast and color. Colors can be defined in different formats, such as RGB, Hexadecimal, and HSL. The article introduces the concept of "Contrast Ratio" in WCAG 2, which measures the difference in brightness between two colors. It provides examples of contrast ratios for pure red, green, and blue colors on a white background.
   WebAIM also has a <a href="https://webaim.org/resources/contrastchecker/?fcolor=282828&bcolor=96CB48">contrast checker</a>.
   </li></li></ul>
   <ul><br>
-  <li>Alt Text:
+  <li id="alt text">Alt Text:
 Alt text is a brief description of an image that is displayed in place of the image if it fails to load. It is crucial for users with poor internet connections and those who rely on screen readers, such as people who are blind or have low vision. Writing effective alt text involves summarizing and describing the image's content and context. The alt text should be descriptive and concise, allowing users to visualize the image's information. It's important to use punctuation at the end of alt text for screen readers to pause correctly. If an image is purely decorative and has no relevant information, it can be marked as such. Avoid using phrases like "picture of" or "image of" in alt text, as screen readers already identify images as images. Leaving out alt text may lead to the file name being used or the image being skipped over entirely.</li>
   </li>  </ul></ul>
 </div>
@@ -51,8 +51,8 @@ Alt text is a brief description of an image that is displayed in place of the im
      <img src="assets/cc.png" alt="closed caption icon of cc" style="width:100px;height:100px;max-width:50%;">
     <h4>Closed Captioning</h4>
 <ul>
-  <li>Easily add subtitles to your videos online with <a href="http://www.amara.org/">amara.org</a></li>
-<li>Using filters to find videos that are already captioned</li>
+  <li id="amara">Easily add subtitles to your videos online with <a href="http://www.amara.org/">amara.org</a></li>
+<li id="youtube">Using filters to find videos that are already captioned</li>
   <img src="assets/YouTube CC Filter.png" alt="Youtube filter settings and subtitles/cc option circled in features list">
   
   </ul>
@@ -60,7 +60,7 @@ Alt text is a brief description of an image that is displayed in place of the im
   </ul>
 <div>
   <ul>
-  <h2>Mobility</h2>
+  <h2 id="mobility">Mobility</h2>
     <h3>People With Mobility Impairments</h3>
 <p>People with movement disabilities may experience physical issues like limb loss or paralysis, or neurological/genetic disorders leading to limb weakness or loss of control. Some may struggle with mouse movements, relying on alternatives like head pointers. Age-related factors or hardware limitations can also contribute to this disability. Web development should prioritize keyboard accessibility to accommodate these users. Statistics show that a significant percentage of people (16.1% in the USA) have mobility impairments.</p>
 <p>In web development, keyboard accessibility is essential, ensuring that controls can be operated solely using the keyboard. Testing websites by navigating with the Tab key helps identify if users can move efficiently between different controls, such as web forms, using only keyboard inputs.</p>
@@ -72,7 +72,7 @@ Alt text is a brief description of an image that is displayed in place of the im
   </ul>
     <div>
       <ul>
-     <h2>Cognitive Impairments</h2>
+     <h2 id="cognitive">Cognitive Impairments</h2>
     <h3>People With Cognitive Impairments</h3>
 <p>People with cognitive impairments face common functional challenges, such as difficulty understanding content, remembering tasks, and confusion due to inconsistent webpage layouts. To create cognitive accessibility, websites should:</p>
 <ul>
@@ -94,7 +94,7 @@ In the US, approximately 1 in 4 citizens have a disability, with cognitive impai
     <hr></hr>
     <div>
   <ul>
-  <h2>Implementing Accessibility Into Your Project</h2>
+  <h2 id="project">Implementing Accessibility Into Your Project</h2>
 <p>When planning a project, incorporate accessibility testing into your testing regime, treating it as crucial as testing for other target audience segments. Conduct early and frequent tests, including automated tests to detect programmable accessibility issues, and involve disabled user groups to evaluate complex features. Address questions like the usability of date picker widgets for screen reader users, awareness of visually impaired users about dynamic content updates, and accessibility of UI buttons for both keyboard and touch interface users.</p>
 <p>Identify potential problem areas in content that require accessibility improvements, and thoroughly test and explore alternative solutions. While transcribing multimedia content can be expensive, it's one way to enhance accessibility. Demonstrate your commitment to accessibility by publishing an accessibility statement outlining your accessibility policy and the steps taken to make the site accessible. When notified of accessibility problems, engage in empathetic dialogue and take reasonable steps to address the issues.</p>
 
