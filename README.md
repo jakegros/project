@@ -6,4 +6,5 @@
 <a href="http://webaim.org/resources/designers/"><img src="http://webaim.org/resources/designers/media/designers.svg" alt="Web Accessibility for Designers infographic with link to text version at WebAIM.org" text-align="center"></a> 
 
 <p>Graphic Source: https://webaim.org/resources/designers/</p>
-<img src="assets/qr website.png alt="qr code leading to website"/>
+
+<img src="assets/qr website.png alt="qr code leading to website" style="width:100px;height:100px;max-width:50%;"/>
