@@ -40,11 +40,14 @@ img {
 }
 
 .left-buttons {
-  color: #3e9dcf;
-  padding: 10px;
+      background-color: #3e9dcf;
+   border: 2px solid #000000;
+  color: white;
+  padding: 12px 28px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
   font-size: 16px;
-  border: none;
-  cursor: pointer;
 }
 
 .dropbtn {
