@@ -1,14 +1,4 @@
 <style>
-.button {
-background-color: #3e9dcf;
-   border: 2px solid #000000;
-  color: white;
-  padding: 12px 28px;;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
 
 body {
     margin: 0;
@@ -40,6 +30,17 @@ img {
 
 .heading h1 {
   position: relative;
+}
+
+.button {
+background-color: #3e9dcf;
+   border: 2px solid #000000;
+  color: white;
+  padding: 12px 28px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 .heading {
