@@ -44,6 +44,14 @@ background-color: #3e9dcf;
   font-size: 16px;
 }
 
+.button:hover, .button:focus {
+  background-color: #2980B9;
+}
+
+a:hover {
+  color: crimson;
+}
+
 .heading {
       text-align: center;
           background-color: #b8dbed;
