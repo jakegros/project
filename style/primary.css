@@ -58,6 +58,12 @@ a:hover {
   color: crimson;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .dropbtn {
   background-color: #3e9dcf;
   color: white;
