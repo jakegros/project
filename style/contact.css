@@ -52,6 +52,12 @@ a:hover {
   color: crimson;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .heading {
       text-align: center;
           background-color: #b8dbed;
