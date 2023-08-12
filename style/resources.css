@@ -33,7 +33,7 @@ img {
 }
 
 .button {
-background-color: #3e9dcf;
+background-color: #2980b9;
    border: 2px solid #000000;
   color: white;
   padding: 12px 28px;;
@@ -44,7 +44,7 @@ background-color: #3e9dcf;
 }
 
 .button:hover, .button:focus {
-  background-color: #2980B9;
+  background-color: #3e9dcf;
 }
 
 a:hover {
